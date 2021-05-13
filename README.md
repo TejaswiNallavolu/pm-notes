@@ -1,4 +1,5 @@
-# pm-notes
+
+pm-notes
 # some important notes:
 - Scrum is the leading agile development method for completing projects with a complex, innovative scope of work.
 - A deliverable is a product or service produced or provided as part of a project.
@@ -8,3 +9,10 @@
 * Functional: functional managers report to the CEO.
 * Project: program managers report to the CEO.
 * Matrix: middle ground between functional and project structures; personnel often report to two or more bosses; structure can be weak, balanced, or strong matrix.
+
+## The five project management process groups are
+1. Initiating
+2. Planning
+3. Executing
+4. Monitoring and controlling
+5. Closing
